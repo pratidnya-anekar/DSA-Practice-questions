@@ -6,7 +6,7 @@ I am using these questions as my DSA practice set, I am learning DSA by Love Bab
 The question list is shared by YouTuber Love Babbar 450 questions DSA Cracker Sheet.
 
 # Resources
-Geeks for Geeks
+@Geeks for Geeks
 Love Babbar
 Leetcode
 scaler academy
